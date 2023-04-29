@@ -1,0 +1,39 @@
+img {
+    width: 50px;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+img{
+    position: absolute;
+}
+ul li {
+    float: left;
+    list-style-type: none;
+    padding-left: 100px;
+}
+ul {
+    margin-left: 1800px;
+    padding-top: 40px;
+}
+section {
+    position: relative;
+    padding-top: 20px;
+}
+.news {
+    font-size: 18px;
+    margin-left:50px;
+    padding-right: 280px;
+    width:300px;
+    text-align: center;
+    word-break:break-all;
+    float: left;
+}
+.new {
+    font-size: 18px;
+    margin-left:50px;
+    width:300px;
+    text-align: center;
+    word-break:break-all;
+    float: left;
+}
+
